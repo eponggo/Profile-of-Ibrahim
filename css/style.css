@@ -1,0 +1,372 @@
+tex{
+    margin: 0;
+    padding: 0;
+}
+header{
+   
+width: 80%;
+   
+margin: auto;
+   
+overflow: hidden;
+   
+padding-top: 30px;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+
+}
+
+}
+.images_left{
+}
+nav{
+    width: 65%;
+    float: left;
+}
+nav ul{
+
+list-style: none;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 23px;
+
+font-size: 24px;
+}
+div img{
+
+}
+.maddle{
+
+width: 90%;
+
+overflow: hidden;
+
+margin-left: 10%;
+
+padding-top: 151px;
+
+padding-bottom: 70px;
+}
+
+.lift_site{
+
+width: 45%;
+
+float: left;
+}
+.lift_site h1{font-size: 49px;}
+.lift_site p{font-size: 16px;}
+.lift_site img{
+
+padding-top: 22px;
+}
+.right_site{
+    
+width: 45%;
+    
+float: right;
+}
+.right_site img{
+
+width: 79%;
+}
+
+.third_maddle{
+
+width: 40%;
+
+margin-left: 30%;
+
+text-align: center;
+}
+.first_font_bold{font-size: 22px;}
+.first_font_bold h1{
+
+}
+.first_font_bold p{
+    
+font-size: 18px;
+    
+font-style: italic;
+}
+.four-part{
+
+width: 95%;
+
+margin-left: 7%;
+
+padding-top: 31px;
+overflow: hidden;
+}
+.four_partone img{
+
+float: left;
+
+padding-right: 24px;
+}
+.four_partwo img{
+
+float: left;
+
+padding-right: 20px;
+}
+.four_partthree img{
+
+float: left;
+
+padding-right: 20px;
+}
+.four_partfour img{
+
+}
+.partfive{
+
+width: 20%;
+
+margin-left: 40%;
+
+text-align: center;
+overflow: hidden;
+}
+.partone_font h1{
+
+font-size: 36px;
+}
+.partone_font p{
+    
+font: caption;
+    
+padding-top: 10px;
+}
+.partsix{
+
+width: 68%;
+
+margin: auto;
+overflow: hidden;
+
+
+
+
+}
+
+.partsix_one{
+
+
+
+width: 25%;
+
+
+
+float: left;
+
+text-align: center;
+
+padding: 0px 43px;
+
+background: #F3F3F3;
+}
+.partsix_one img{width: 22%;}
+.partsix_one h1{
+
+text-align: left;
+}
+.partsix_one p{
+
+text-align: justify;
+}
+
+.partsix_two{
+   
+width: 25%;
+   
+float: left;
+   
+margin-left: 2.5%;
+   
+text-align: center;
+   
+padding: 0px 46px;
+   
+background: #F3F3F3;
+}
+
+.partsix_two img{
+
+width: 22%;
+}
+
+.partsix_two h1{
+
+text-align: left;
+}
+.partsix_two p{
+    
+text-align: left;
+}
+
+
+.partsix_three{
+
+width: 25%;
+
+float: right;
+
+text-align: center;
+
+padding: 0px 46px;
+
+background: #F3F3F3;
+}
+
+.partsix_three img{
+
+width: 22%;
+}
+.partsix_three h1{
+
+text-align: left;
+}
+.partsix_three p{
+    
+text-align: left;
+}
+
+
+.partseven{
+
+width: 68%;
+
+margin: auto;
+
+overflow: hidden;
+
+padding-top: 26px;
+
+padding-bottom: 20px;
+}
+    
+    .partseven_one{
+    
+width: 25%;
+    
+float: left;
+    
+text-align: center;
+    
+padding: 0px 43px;
+    
+background: #F3F3F3;
+    }
+    .partseven_one img{width: 22%;}
+    .partseven_one h1{
+    
+text-align: center;
+    }
+    .partseven_one p{
+    
+    text-align: justify;
+    }
+    
+    .partseven_two{
+       
+width: 25%;
+       
+float: left;
+       
+margin-left: 2.5%;
+       
+text-align: center;
+       
+padding: 12px 43px;
+       
+background: #F3F3F3;
+    }
+    
+    .partseven_two img{
+    
+    width: 22%;
+    }
+    
+    .partseven_two h1{
+    
+text-align: center;
+    }
+    .partseven_two p{
+        
+    text-align: left;
+    }
+    
+    
+    .partseven_three{
+    
+width: 25%;
+    
+float: right;
+    
+text-align: center;
+    
+background: #F3F3F3;
+    
+padding: 0px 43px;
+    }
+    
+    .partseven_three img{
+    
+    width: 22%;
+    }
+    .partseven_three h1{
+    
+text-align: center;
+    }
+    .partseven_three p{
+        
+    text-align: left;
+    }
+    .lastdesign{
+
+height: 498px;
+
+background: #292640;
+
+text-align: center;
+
+padding-top: 42px 33px;
+}
+.lastdesignfont{
+    padding-top: 10px;
+}
+    .lastdesignfont h1{
+
+font-size: 49px;
+
+width: 28%;
+
+margin-left: 36%;
+
+color: white;
+
+padding-bottom: 8px;
+}
+    .lastdesignfont img{
+
+    }
+    .lastdesignfontlogo img{
+        
+    }
+
+.finallogo img{
+
+margin-left: 94.9%;
+
+padding-top: 35px;
+}
